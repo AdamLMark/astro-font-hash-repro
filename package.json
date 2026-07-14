@@ -1,0 +1,11 @@
+{
+  "name": "astro-font-hash-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "astro build"
+  },
+  "dependencies": {
+    "astro": "^7.0.9"
+  }
+}
